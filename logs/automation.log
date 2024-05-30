@@ -1,0 +1,277 @@
+12:16:57.630 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+12:16:57.716 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+12:16:57.735 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+12:17:03.249 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+12:17:06.471 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+12:17:06.643 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+12:17:06.732 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+12:17:06.834 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+12:17:06.949 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+12:17:07.041 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+12:17:07.234 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+12:17:07.315 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+12:17:07.474 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+12:17:07.617 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+12:17:07.749 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+12:17:10.632 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+12:17:31.154 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+12:19:20.728 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+12:19:20.831 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+12:19:20.852 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+12:19:26.512 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+12:19:29.708 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+12:19:29.888 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+12:19:30.052 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+12:19:30.169 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+12:19:30.304 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+12:19:30.414 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+12:19:30.520 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+12:19:30.615 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+12:19:30.733 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+12:19:30.857 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+12:19:30.983 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+12:19:38.480 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+12:19:51.179 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+12:26:09.621 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+12:26:09.696 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+12:26:09.718 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+12:26:12.979 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+12:26:16.232 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+12:26:16.325 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+12:26:16.486 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+12:26:16.665 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+12:26:16.779 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+12:26:16.864 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+12:26:17.043 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+12:26:17.127 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+12:26:17.231 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+12:26:17.331 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+12:26:17.438 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+12:26:20.623 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+12:26:41.191 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+12:40:30.235 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+12:40:30.460 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+12:40:30.508 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+12:40:36.014 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+12:40:39.135 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+12:40:39.250 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+12:40:39.352 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+12:40:39.443 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+12:40:39.540 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+12:40:39.624 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+12:40:39.768 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+12:40:39.886 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+12:40:40.027 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+12:40:40.163 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+12:40:40.306 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+12:40:42.700 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+12:40:55.490 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+12:52:30.996 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+12:52:31.145 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+12:52:31.153 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+12:52:32.324 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+12:52:35.487 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+12:52:35.562 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+12:52:35.627 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+12:52:35.696 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+12:52:35.788 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+12:52:35.856 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+12:52:35.963 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+12:52:36.049 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+12:52:36.145 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+12:52:36.226 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+12:52:36.303 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+12:52:37.558 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+12:52:48.854 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:00:20.122 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:00:20.293 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:00:20.326 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:00:22.301 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:00:25.536 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:00:25.629 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:00:25.791 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:00:25.898 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:00:26.009 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:00:26.115 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:00:26.240 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:00:26.328 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:00:26.440 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:00:26.567 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:00:26.664 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:00:28.087 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:00:39.527 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+17:00:48.314 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+17:00:48.417 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+17:00:48.444 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+17:00:49.807 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+17:00:53.093 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+17:00:53.228 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+17:00:53.360 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+17:00:53.454 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+17:00:53.638 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+17:00:53.732 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+17:00:53.923 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+17:00:54.008 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+17:00:54.196 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+17:00:54.311 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+17:00:54.417 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+17:00:56.810 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+17:01:16.061 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:33:11.604 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:33:11.980 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:33:11.991 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:33:13.749 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:33:16.933 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:33:17.039 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:33:17.159 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:33:17.261 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:33:17.384 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:33:17.484 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:33:17.579 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:33:17.647 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:33:17.752 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:33:17.855 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:33:17.953 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:33:20.393 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:33:26.025 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:33:43.538 [main] INFO  testCases.TC_002_OpenNewAccount - ****Launched the Application*****
+16:33:43.771 [main] INFO  testCases.TC_002_OpenNewAccount - ****Maximized the browser*****
+16:33:43.824 [main] INFO  testCases.TC_002_OpenNewAccount - ****Waiting for elements to load*****
+16:33:49.492 [main] INFO  testCases.TC_002_OpenNewAccount - ****Closed browser*****
+16:40:13.836 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:40:14.190 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:40:14.200 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:40:16.181 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:40:19.301 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:40:19.378 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:40:19.454 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:40:19.543 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:40:19.640 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:40:19.713 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:40:19.799 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:40:19.878 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:40:19.976 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:40:20.070 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:40:20.161 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:40:22.336 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:40:43.723 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:41:14.699 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:41:14.922 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:41:14.974 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:41:18.026 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:41:21.141 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:41:21.235 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:41:21.331 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:41:21.434 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:41:21.553 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:41:21.632 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:41:21.735 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:41:21.812 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:41:21.915 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:41:22.022 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:41:22.120 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:41:23.814 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:41:37.514 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:43:56.747 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:43:57.012 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:43:57.032 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:43:58.573 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:44:01.693 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:44:01.805 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:44:01.893 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:44:01.983 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:44:02.138 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:44:02.252 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:44:02.360 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:44:02.445 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:44:02.557 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:44:02.657 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:44:02.786 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:44:04.012 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:44:09.573 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:45:03.702 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:45:07.428 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:45:07.473 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:45:09.923 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:45:13.039 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:45:13.135 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:45:13.229 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:45:13.316 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:45:13.428 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:45:13.512 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:45:13.610 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:45:13.693 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:45:13.794 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:45:13.901 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:45:14.012 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:45:15.232 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:45:28.230 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+16:47:26.802 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:47:27.044 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:47:27.065 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:48:30.415 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:48:30.609 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:48:30.639 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:48:41.314 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:48:44.424 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:48:44.513 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:48:44.614 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:48:44.705 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:48:44.826 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:48:44.948 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:48:45.065 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:48:45.176 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:48:45.300 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:48:45.411 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:48:45.512 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:48:47.114 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+16:57:08.754 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+16:57:09.013 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+16:57:09.045 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+16:57:11.965 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+16:57:15.081 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+16:57:15.157 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+16:57:15.231 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+16:57:15.302 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+16:57:15.395 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+16:57:15.469 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+16:57:15.560 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+16:57:15.629 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+16:57:15.715 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+16:57:15.804 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+16:57:15.890 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+16:57:19.086 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+17:02:30.903 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+17:02:37.691 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+17:02:37.707 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+17:02:42.466 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+17:02:45.566 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+17:02:45.654 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+17:02:45.725 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+17:02:45.803 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+17:02:45.903 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+17:02:45.976 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+17:02:46.064 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+17:02:46.132 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+17:02:46.225 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+17:02:46.312 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+17:02:46.404 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+17:02:48.035 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+17:03:04.408 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
+10:05:28.097 [main] INFO  testCases.TC_001_Registartion - ****Launched the Application*****
+10:05:28.208 [main] INFO  testCases.TC_001_Registartion - ****Maximized the browser*****
+10:05:28.241 [main] INFO  testCases.TC_001_Registartion - ****Waiting for elements to load*****
+10:05:30.791 [main] INFO  testCases.TC_001_Registartion - ****Clicked on Registration*****
+10:05:33.921 [main] INFO  testCases.TC_001_Registartion - ****Firstname entered*****
+10:05:34.010 [main] INFO  testCases.TC_001_Registartion - ****Lastname Entered*****
+10:05:34.090 [main] INFO  testCases.TC_001_Registartion - ****Address Entered*****
+10:05:34.166 [main] INFO  testCases.TC_001_Registartion - ****City Entered*****
+10:05:34.264 [main] INFO  testCases.TC_001_Registartion - ****State Entered*****
+10:05:34.338 [main] INFO  testCases.TC_001_Registartion - ****Zipcode Entered*****
+10:05:34.426 [main] INFO  testCases.TC_001_Registartion - ****Phonenumber entered*****
+10:05:34.507 [main] INFO  testCases.TC_001_Registartion - ***ssn entered*****
+10:05:34.604 [main] INFO  testCases.TC_001_Registartion - ****username entered*****
+10:05:34.682 [main] INFO  testCases.TC_001_Registartion - ****password entered*****
+10:05:34.774 [main] INFO  testCases.TC_001_Registartion - ****confirm password entered*****
+10:05:36.793 [main] INFO  testCases.TC_001_Registartion - ****Account Created*****
+10:05:43.722 [main] INFO  testCases.TC_001_Registartion - ****Closed browser*****
